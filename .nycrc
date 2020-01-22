@@ -9,5 +9,6 @@
       "**/*.spec.ts",
       ".history"
     ],
+    "reporter": "lcov",
     "all": true 
 }
